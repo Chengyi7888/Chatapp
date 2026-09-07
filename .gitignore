@@ -1,0 +1,27 @@
+# Runtime data
+server/users.json
+server/messages.json
+server/groups.json
+server/groupMessages.json
+server/posts.json
+server/activities.json
+server/server.log
+server/avatars/
+server/files/
+
+# Generated output
+outputs/
+build/
+*.apk
+*.aab
+*.class
+*.jar
+*.dex
+
+# Local tooling
+.idea/
+.gradle/
+local.properties
+*.iml
+node_modules/
+*.tmp
